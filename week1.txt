@@ -1,2 +1,2 @@
-day la file week1 : noi dung AAAA
+day la file week1
 thuoc brand:week1
